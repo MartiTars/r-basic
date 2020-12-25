@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE, comment = NA)
 # Conociendo R
 
 hola
-
+gbbgf
 
 ## ¿Qué es R?
 
